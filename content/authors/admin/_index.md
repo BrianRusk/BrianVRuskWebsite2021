@@ -36,6 +36,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/BrianRusk
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/gkwf5/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/brian-rusk-24334235/

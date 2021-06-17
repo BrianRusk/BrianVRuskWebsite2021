@@ -1,6 +1,7 @@
 +++
-date = 2017-01-01T00:00:00  # Schedule page publish date.
+date = 2017-02-02T10:50:00  # Schedule page publish date.
 
+authors = ["Brian V. Rusk"]
 title = "From a Classifier Language to English: Do EFL Classrooms Benefit Acquisition of English Number Marking?"
 time_start = 2017-02-02T10:50:00
 time_end = 2017-02-02T11:10:00
@@ -9,6 +10,7 @@ abstract_short = ""
 event = "MLCS Graduate Student Conference 2017: (Dis)Connections"
 event_url = ""
 location = "Edmonton, Alberta"
+publication_types = ["1"]
 
 # Is this a selected talk? (true/false)
 selected = false

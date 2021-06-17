@@ -11,6 +11,7 @@ abstract_short = ""
 event = "Alberta Conference on Linguistics, 2017"
 event_url = "https://sites.google.com/ualberta.ca/acol2017-linguistics/home"
 location = "Edmonton, Alberta"
+publication_types = ["1"]
 
 # Is this a selected talk? (true/false)
 selected = false

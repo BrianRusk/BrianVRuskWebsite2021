@@ -2,21 +2,22 @@
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
+active: false
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 31
 
-title: 'Presentations'
-subtitle:
+title: 'Presalt'
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: publication/conference-paper
+  page_type: event
   # Choose how many pages you would like to display (0 = all pages)
-  count: 5
+  count: 0
   # Filter on criteria
   filters:
     author: ""

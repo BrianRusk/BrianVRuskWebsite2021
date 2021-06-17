@@ -8,14 +8,14 @@ active: false
 headless: true
 
 # Order that this section appears on the page.
-weight: 85
+weight: 31
 
-title: Featured Publications
+title: Featured
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: talk
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
