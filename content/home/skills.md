@@ -28,10 +28,10 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-- description:
-  icon: "中"
-  icon_pack: "emoji"
-  name: Mandarin
+# - description:
+#   icon: "中"
+#   icon_pack: "emoji"
+#   name: Mandarin
 
 # ㊥🈭 https://graphemica.com/%E4%B8%AD#code
 # Uncomment to use emoji icons.

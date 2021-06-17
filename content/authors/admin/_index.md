@@ -4,7 +4,7 @@ education:
   courses:
   - course: ABD PhD in Linguistics
     institution: University of Alberta
-    year: 2021 (expected)
+    year: August 2021 (expected)
   - course: Master of Applied Linguistics
     institution: University of New England, Australia
     year: 2013

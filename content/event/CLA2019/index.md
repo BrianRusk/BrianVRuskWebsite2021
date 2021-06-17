@@ -12,7 +12,7 @@ location: University of British Columbia
 
 title: "Middle-School Language Immersion Learners’ Comprehension of Plural-Singular Marking: Acquisition across a Typologically Distinct Language Pairing [Poster]"
 url_code: ""
-url_pdf: "/Users/brian/Documents/GitHub/BrianVRuskWebsite2021/static/uploads/Rusk_CLAposter2019.pdf"
+url_pdf: "/uploads/Rusk_CLAposter2019.pdf"
 url_slides: ""
 url_video: ""
 ---

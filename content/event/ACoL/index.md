@@ -14,6 +14,6 @@ tags: []
 title: "Differences between ESL, EFL, and Monolinguals: A Developmental Retrospective Grammaticality Judgment Study"
 url_code: ""
 url_pdf: ""
-url_slides: "static/uploads/BrianRuskACOL2017.pdf"
+url_slides: "/uploads/BrianRuskACOL2017.pdf"
 url_video: ""
 ---
