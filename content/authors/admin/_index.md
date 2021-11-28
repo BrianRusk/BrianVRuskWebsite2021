@@ -51,7 +51,7 @@ superuser: true
 title: Brian V. Rusk, PhD
 ---
 
-I am an SSHRC Doctoral Fellow and PhD candidate working in the Language Acquisition Lab of the University of Alberta. I research child second language acquisition, and I'm interested in both community as well as classroom language immersion settings.
+I am a former SSHRC Doctoral Fellow who completed his PhD working in the Language Acquisition Lab of the University of Alberta. I research child second language acquisition, and I'm interested in both community as well as classroom language immersion settings.
 
 To understand second language acquisition of a highly frequent morphological feature of English, my dissertation project examines online comprehension of plural-singular marking by middle-school-aged youth who began learning English in preschool. The main experiment combines visual-world eye-tracking with a picture-decision task.
 

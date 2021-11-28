@@ -19,6 +19,8 @@ weight = 40
 +++
 <h2>Academic Courses at the University of Alberta</h2>
 
++ Development of Bilingualism, Psychology 423
+    + <pre>Fall, 2021</pre> 
 + Psychology of Bilingualism, Psychology 405 X01
     + <pre>Fall, 2020</pre> 
 + Introduction to Linguistics, Linguistics 101
