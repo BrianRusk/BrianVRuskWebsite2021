@@ -32,6 +32,9 @@ weight = 40
 
 <h2>Adult ESL Instruction</h2>
 
++ Da-Yeh University - English Dept. Lecturer
+    + <pre>August 2021 - Present (Changhua County, Taiwan)</pre>
+
 + EJ Canada College - ESL Instructor to university-aged adults
     + <pre>2001 - 2003 (Vancouver, Canada)</pre>
 
