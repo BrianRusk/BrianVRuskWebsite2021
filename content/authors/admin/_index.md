@@ -2,9 +2,9 @@
 bio: My research interests include child second language acquisition, language immersion, and acquisition of morphosyntax.
 education:
   courses:
-  - course: ABD PhD in Linguistics
+  - course: PhD in Linguistics
     institution: University of Alberta
-    year: August 2021 (expected)
+    year: 2021
   - course: Master of Applied Linguistics
     institution: University of New England, Australia
     year: 2013
@@ -22,7 +22,9 @@ interests:
 organizations:
 - name: University of Alberta
   url: https://www.ualberta.ca/linguistics/index.html
-role: PhD Candidate
+ - name: Da-Yeh University, Taiwan
+  url: https://de.dyu.edu.tw/members.php?type=fulltime
+role: Lecturer
 social:
 - icon: envelope
   icon_pack: fas
@@ -46,7 +48,7 @@ social:
   icon_pack: fab
   link: https://www.researchgate.net/profile/Brian_Rusk2
 superuser: true
-title: Brian V. Rusk
+title: Brian V. Rusk, PhD
 ---
 
 I am an SSHRC Doctoral Fellow and PhD candidate working in the Language Acquisition Lab of the University of Alberta. I research child second language acquisition, and I'm interested in both community as well as classroom language immersion settings.
