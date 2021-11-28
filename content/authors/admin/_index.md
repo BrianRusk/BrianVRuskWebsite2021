@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: University of Alberta
   url: https://www.ualberta.ca/linguistics/index.html
- - name: Da-Yeh University, Taiwan
+- name: Da-Yeh University, Taiwan
   url: https://de.dyu.edu.tw/members.php?type=fulltime
 role: Lecturer
 social:
