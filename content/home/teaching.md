@@ -19,10 +19,10 @@ weight = 40
 +++
 <h2>Academic Courses at the University of Alberta</h2>
 
++ Psychology of Bilingualism, Psychology 405 X01
+    + <pre>Winter, 2022; Fall, 2020</pre> 
 + Development of Bilingualism, Psychology 423
     + <pre>Fall, 2021</pre> 
-+ Psychology of Bilingualism, Psychology 405 X01
-    + <pre>Fall, 2020</pre> 
 + Introduction to Linguistics, Linguistics 101
     + <pre>Winter, 2020</pre> 
 + Syntax of English, Linguistics 204 
@@ -32,8 +32,11 @@ weight = 40
 
 <h2>Adult ESL Instruction</h2>
 
++ Stanley English - IELTS Instructor
+    + <pre>June 2022 - Present (Taichung, Taiwan)</pre>
+
 + Da-Yeh University - English Dept. Lecturer
-    + <pre>August 2021 - Present (Changhua County, Taiwan)</pre>
+    + <pre>August 2021 - July 2022 (Changhua County, Taiwan)</pre>
 
 + EJ Canada College - ESL Instructor to university-aged adults
     + <pre>2001 - 2003 (Vancouver, Canada)</pre>

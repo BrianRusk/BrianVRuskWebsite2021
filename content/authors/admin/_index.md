@@ -20,11 +20,8 @@ interests:
 - Language Immersion
 - Data Analysis with `R`
 organizations:
-- name: Da-Yeh University, Taiwan
-  url: https://de.dyu.edu.tw/members.php?type=fulltime
-- name: University of Alberta
-  url: https://www.ualberta.ca/linguistics/index.html
-role: Lecturer
+
+role: Researcher
 social:
 - icon: envelope
   icon_pack: fas
@@ -51,6 +48,6 @@ superuser: true
 title: Brian V. Rusk
 ---
 
-I am currently a lecturer in the Department of English at Da-Yeh University in Taiwan. I am a former SSHRC Doctoral Fellow who completed his PhD in the Language Acquisition Lab of the Department of Linguistics at the University of Alberta. My main research area is child second language (L2) acquisition, and I'm interested both in acquisition of an L2 as a community majority language, as well as, acquisition of a minority-L2 in classroom language immersion settings. My overarching research goal is to provide a better foundational understanding of L2 acquisition as an emergent phenomenon by studying children who speak Mandarin as a first language as they acquire English as an L2. 
+I completed my PhD in the Language Acquisition Lab of the Department of Linguistics at the University of Alberta and I am a former SSHRC Doctoral Fellow. My main research area is child second language (L2) acquisition, and I'm interested both in acquisition of an L2 as a community majority language as well as acquisition of a minority-L2 in classroom language immersion settings. My overarching research goal is to provide a better foundational understanding of L2 acquisition as an emergent phenomenon by studying children and adults who speak Mandarin as a first language as they acquire English as an L2. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_B_Rusk2021_11_nref.pdf" "newtab" >}}CV{{< /staticref >}}.
