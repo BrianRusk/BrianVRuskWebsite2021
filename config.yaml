@@ -6,7 +6,7 @@ theme: "starter-hugo-academic"
 
 title: Brian V. Rusk # Website name
 baseurl: '' # Website URL "http://brianvrusk.rbind.io/"
-copyright: "Copyright &copy; 2021 Brian Rusk" # Footer text, e.g. '© {year} Me'
+copyright: "Copyright &copy; 2023 Brian Rusk" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

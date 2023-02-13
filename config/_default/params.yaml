@@ -20,17 +20,17 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: brusk@ualberta.ca
+email: brusk@um.edu.mo
 address:
-  street: 3-27 Assiniboia Hall
-  city: Edmonton
-  region: AB
-  postcode: 'T6G 2E7'
-  country: Canada
-  country_code: CA
+  street: Room 2042, E33, Faculty of Education
+  city: Macau
+  region: Macau, SAR
+# postcode: 'T6G 2E7'
+  country: China
+  country_code: CN
 coordinates:
-  latitude: "53.527487"
-  longitude: "-113.526659"
+  latitude: "22.12572"
+  longitude: "113.54413"
 # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
 # office_hours:
 #   - 'Monday 10:00 to 13:00'

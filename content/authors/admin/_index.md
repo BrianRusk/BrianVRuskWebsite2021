@@ -11,7 +11,7 @@ education:
   - course: Bachelor of Arts
     institution: University College of the Fraser Valley
     year: 1998
-email: "brusk@ualberta.ca"
+email: "brusk@um.edu.mo"
 highlight_name: false
 interests:
 - Language Acquisition
@@ -21,11 +21,11 @@ interests:
 - Data Analysis with `R`
 organizations:
 
-role: Researcher
+role: Research Assistant Professor, Faculty of Education
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:brusk@ualberta.ca
+  link: mailto:brusk@um.edu.mo
 - display:
     header: true
   icon: twitter
@@ -50,4 +50,4 @@ title: Brian V. Rusk
 
 I completed my PhD in the Language Acquisition Lab of the Department of Linguistics at the University of Alberta and I am a former SSHRC Doctoral Fellow. My main research area is child second language (L2) acquisition, and I'm interested both in acquisition of an L2 as a community majority language as well as acquisition of a minority-L2 in classroom language immersion settings. My overarching research goal is to provide a better foundational understanding of L2 acquisition as an emergent phenomenon by studying children and adults who speak Mandarin as a first language as they acquire English as an L2. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Rusk_BV_CV_09_2022.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Rusk_BV_CV_02_2023.pdf" "newtab" >}}CV{{< /staticref >}}.
