@@ -21,9 +21,7 @@ interests:
 - Data Analysis with `R`
 organizations:
 
-role: Research Assistant Professor,  
-Faculty of Education,  
-University of Macau
+role: Research Assistant Professor,  Faculty of Education,  University of Macau
 social:
 - icon: envelope
   icon_pack: fas
