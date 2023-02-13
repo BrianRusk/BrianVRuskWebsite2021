@@ -1,4 +1,5 @@
 ---
+# Short bio (displayed in user profile at end of posts)
 bio: My research interests include child second language acquisition, language immersion, and acquisition of morphosyntax.
 education:
   courses:
@@ -19,9 +20,16 @@ interests:
 - Morphosyntax
 - Language Immersion
 - Data Analysis with `R`
-organizations:
 
-role: Research Assistant Professor,  Faculty of Education,  University of Macau
+# Role/position
+role: Research Assistant Professor, Faculty of Education,
+
+# Organizations/Affiliations
+organizations:
+- name: University of Macau
+  url: "https://fed.um.edu.mo/brusk"
+
+# Social/Academic Networking
 social:
 - icon: envelope
   icon_pack: fas
@@ -44,7 +52,11 @@ social:
 - icon: researchgate
   icon_pack: fab
   link: https://www.researchgate.net/profile/Brian_Rusk2
+  
+# Is this the primary user of the site?
 superuser: true
+
+# Display name
 title: Brian V. Rusk
 ---
 
