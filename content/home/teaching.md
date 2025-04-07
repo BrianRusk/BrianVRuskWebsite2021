@@ -17,6 +17,17 @@ weight = 40
 # One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
+<h2>Academic Courses at the University of Macau</h2>
+
++ Language and Linguistics,  Education 7705
+    + <pre>Winter, 2025</pre> 
++ Second Language Learning Theories, Education 1006
+    + <pre>Fall, 2023; Fall, 2024</pre> 
++ Introduction to English Language Teaching, Education 1024
+    + <pre>Winter, 2024</pre> 
++ Teaching Reading & Writing, Education 2022 
+    + <pre>Fall 2023</pre> 
+    
 <h2>Academic Courses at the University of Alberta</h2>
 
 + Psychology of Bilingualism, Psychology 405 X01
