@@ -1,5 +1,5 @@
 +++
-date = 2019-06-25T15:40:00  # Schedule page publish date.
+date = 2025-04-07T15:40:00  # Schedule page publish date.
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Barry Lee Reynolds", "Brian Rusk", "Tianjiao Song", "Chuang Wang"]
@@ -8,7 +8,7 @@ time_start = 2023-12-25T15:40:00
 time_end = 2023-12-01T16:05:00
 abstract = ""
 abstract_short = ""
-event = "VocabVic"
+event = "`Vocab@Vic`"
 event_url = ""
 location = "Wellington, New Zealand"
 publication_types = ["1"]
