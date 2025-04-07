@@ -9,7 +9,7 @@ time_end = 2023-12-01T16:05:00
 abstract = ""
 abstract_short = ""
 event = "VocabVic"
-# event_url = "http://sites.psych.ualberta.ca/ISB12/"
+event_url = ""
 location = "Wellington, New Zealand"
 publication_types = ["1"]
 
