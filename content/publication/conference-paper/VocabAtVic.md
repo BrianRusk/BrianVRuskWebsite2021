@@ -1,5 +1,5 @@
 +++
-date = 2025-04-07T15:40:00  # Schedule page publish date.
+date = 2025-04-06T15:40:00  # Schedule page publish date.
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Barry Lee Reynolds", "Brian Rusk", "Tianjiao Song", "Chuang Wang"]

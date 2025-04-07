@@ -17,7 +17,7 @@ authors = ["Johanne Paradis", "Tamara Sorenson Duncan", "Stephanie Thomlinson", 
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Frontiers in Education*."
+publication = "In *Frontiers in Education*"
 # publication_short = "In *ARAL*"
 
 # Abstract and optional shortened version.

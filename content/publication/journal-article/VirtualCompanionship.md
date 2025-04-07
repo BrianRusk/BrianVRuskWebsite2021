@@ -17,7 +17,7 @@ authors = ["Ning Ren", "Barry Lee Reynolds", "Brian V. Rusk"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Computers & Education*."
+publication = "In *Computers & Education*"
 # publication_short = "In *ARAL*"
 
 # Abstract and optional shortened version.

@@ -17,7 +17,7 @@ authors = ["Brian V. Rusk", "Johanne Paradis"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Review of Applied Linguistics in Language Teaching*."
+publication = "In *International Review of Applied Linguistics in Language Teaching*"
 # publication_short = "In *ARAL*"
 
 # Abstract and optional shortened version.
