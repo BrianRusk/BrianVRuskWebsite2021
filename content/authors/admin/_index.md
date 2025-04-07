@@ -36,7 +36,7 @@ social:
   link: mailto:brusk@um.edu.mo
 - display:
     header: true
-  icon: bluesky
+  icon: twitter
   icon_pack: fab
   label: Follow me on Bluesky
   link: https://bsky.app/profile/brivirus.bsky.social
