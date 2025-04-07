@@ -36,10 +36,10 @@ social:
   link: mailto:brusk@um.edu.mo
 - display:
     header: true
-  icon: twitter
+  icon: bluesky
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/BrianViRu
+  label: Follow me on Bluesky
+  link: https://bsky.app/profile/brivirus.bsky.social
 - icon: github
   icon_pack: fab
   link: https://github.com/BrianRusk
