@@ -21,7 +21,7 @@ publication = "In *Computers & Education*"
 # publication_short = "In *ARAL*"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Study-with-me (SWM) videos offer virtual companionship for learning. Users claim that SWM videos simulate physical companionship, motivate their learning with manageable pressure, and enhance their performance with minimal cost. Despite burgeoning search interests and millions of accumulated views, the effects of SWM videos on learning lack rigorous examination. The comparative advantages of SWM videos over other learning environments, based on different theories and related evidence, are contradictory. Addressing these gaps, we used the Basic Psychological Needs Theory (BPNT) to explain SWM video users’ intrinsic motivation, perceived pressure, and performance with perceived autonomy, competence, and relatedness (RQ1). We also compared users’ learning with the SWM video to two learning environments: learning with a physical companion or alone (RQ2). We employed a within-subject design with 60 university students, inviting each to speed-read five English articles in all three learning environments. For RQ1, results showed that when learning with an SWM video, autonomy was positively associated with intrinsic motivation and negatively associated with perceived pressure. Competence had a negative relationship with reading time. Thus, we advise SWM video creators to support autonomy and competence, and users to select videos that fulfill these needs. For RQ2, participants perceived significantly lower pressure and had higher task accuracy with an SWM video than a physical companion despite preference or prior use of SWM videos. No statistical advantage was found over learning alone. Our findings support SWM videos as viable alternatives to physical companions but not superior to learning alone."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -44,7 +44,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://doi.org/10.1016/j.compedu.2025.105243"
 
 # Does the content use math formatting?
 math = true
