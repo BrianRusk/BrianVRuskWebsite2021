@@ -2,7 +2,7 @@
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 authors = ["Brian V. Rusk"]
-title = "Are They Now? Early Second Language Learners' Grammaticality Judgments in Adulthood"
+title = "How Are They Now? Early Second Language Learners' Grammaticality Judgments in Adulthood"
 time_start = 2017-09-13T15:20:00
 time_end = 2017-09-13T15:40:00
 abstract = ""
