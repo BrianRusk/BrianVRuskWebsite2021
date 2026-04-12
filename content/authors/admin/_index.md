@@ -1,6 +1,6 @@
 ---
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include child second language acquisition, language immersion, and acquisition of morphosyntax.
+bio: My research interests include experimental psycholinguistics, acquisition of morphosyntax, second language acquisition, and language immersion.
 education:
   courses:
   - course: PhD in Linguistics
@@ -15,8 +15,9 @@ education:
 email: "brusk@um.edu.mo"
 highlight_name: false
 interests:
-- Language Acquisition
-- Child Second Language Acquisition
+- Experimental Psycholinguistics
+- Eye-tracking
+- Second Language Acquisition
 - Morphosyntax
 - Language Immersion
 - Data Analysis with `R`
@@ -36,7 +37,7 @@ social:
   link: mailto:brusk@um.edu.mo
 - display:
     header: true
-  icon: twitter
+  icon: bluesky
   icon_pack: fab
   label: Follow me on Bluesky
   link: https://bsky.app/profile/brivirus.bsky.social
@@ -60,6 +61,8 @@ superuser: true
 title: Brian V. Rusk
 ---
 
-I completed my PhD in the Language Acquisition Lab of the Department of Linguistics at the University of Alberta and I am a former SSHRC Doctoral Fellow. My main research area is child second language (L2) acquisition, and I'm interested both in acquisition of an L2 as a community majority language as well as acquisition of a minority-L2 in classroom language immersion settings. My overarching research goal is to provide a better foundational understanding of L2 acquisition as an emergent phenomenon by studying children and adults who speak Mandarin as a first language as they acquire English as an L2. 
+My research investigates second language acquisition using experimental psycholinguistic methods, including eye-tracking, with a focus on morphosyntactic development. This work specifically examines Chinese-speaking learners of English as a foreign language, investigating how individuals differ in their processing of L2 grammatical markers. The next phase of my research will be a longitudinal investigation tracing how early L2 processing strategies shape long-term learning trajectories. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Rusk_BV_CV_07_04_2025no_ref.pdf" "newtab" >}}CV{{< /staticref >}}.
+I currently work as a research assistant professor in the Faculty of Education at the University of Macau. I completed my PhD in the Language Acquisition Lab of the Department of Linguistics at the University of Alberta and I am a former SSHRC Doctoral Fellow. 
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/BVR_Website_CV12_04_2026.pdf" "newtab" >}}CV{{< /staticref >}}.

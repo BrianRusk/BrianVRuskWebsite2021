@@ -19,14 +19,14 @@ weight = 40
 +++
 <h2>Academic Courses at the University of Macau</h2>
 
-+ Language and Linguistics,  Education 7705
-    + <pre>Winter, 2025</pre> 
-+ Second Language Learning Theories, Education 1006
-    + <pre>Fall, 2023; Fall, 2024</pre> 
++ Language and Linguistics, Education 7705
+    + <pre>Winter, 2025; Fall, 2025</pre>
++ Language Learning Theories and ELT, Education 1006
+    + <pre>Fall, 2023; Fall, 2024; Fall, 2025</pre>
 + Introduction to English Language Teaching, Education 1024
-    + <pre>Winter, 2024</pre> 
+    + <pre>Winter, 2024</pre>
 + Teaching Reading & Writing, Education 2022 
-    + <pre>Fall 2023</pre> 
+    + <pre>Fall, 2023</pre>
     
 <h2>Academic Courses at the University of Alberta</h2>
 
