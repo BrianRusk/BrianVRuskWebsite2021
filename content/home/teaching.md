@@ -20,7 +20,7 @@ weight = 40
 <h2>Academic Courses at the University of Macau</h2>
 
 + Language and Linguistics, Education 7705
-    + <pre>Winter, 2025; Fall, 2025</pre>
+    + <pre>Winter, 2025; Fall, 2025; Fall, 2026</pre>
 + Language Learning Theories and ELT, Education 1006
     + <pre>Fall, 2023; Fall, 2024; Fall, 2025</pre>
 + Introduction to English Language Teaching, Education 1024
@@ -48,7 +48,7 @@ Eight master's students co-supervised with Prof. Barry Lee Reynolds, University 
 <h2>Adult ESL Instruction</h2>
 
 + Stanley English - IELTS Instructor
-    + <pre>June 2022 - Present (Taichung, Taiwan)</pre>
+    + <pre>June 2022 - January 2023 (Taichung, Taiwan)</pre>
 
 + Da-Yeh University - English Dept. Lecturer
     + <pre>August 2021 - July 2022 (Changhua County, Taiwan)</pre>
