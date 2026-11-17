@@ -25,21 +25,25 @@ weight = 40
     + <pre>Fall, 2023; Fall, 2024; Fall, 2025</pre>
 + Introduction to English Language Teaching, Education 1024
     + <pre>Winter, 2024</pre>
-+ Teaching Reading & Writing, Education 2022 
++ Teaching Reading & Writing, Education 2022
     + <pre>Fall, 2023</pre>
-    
+
+<h2>Graduate Student Supervision</h2>
+
+Eight master's students co-supervised with Prof. Barry Lee Reynolds, University of Macau. Projects include research investigating the impact of AI-generated voices on incidental L2 vocabulary learning using eye-tracking methodology, incidental L2 vocabulary while reading, incidental L2 acquisition during digital game play, and implementing webcam eye-tracking using WebGazer.
+
 <h2>Academic Courses at the University of Alberta</h2>
 
-+ Psychology of Bilingualism, Psychology 405 X01
-    + <pre>Winter, 2022; Fall, 2020</pre> 
-+ Development of Bilingualism, Psychology 423
-    + <pre>Fall, 2021</pre> 
++ Psychology of Bilingualism, Psychology 405 (Online)
+    + <pre>Fall, 2020</pre>
++ Development of Bilingualism, Psychology 423 (Online)
+    + <pre>Fall, 2021</pre>
 + Introduction to Linguistics, Linguistics 101
-    + <pre>Winter, 2020</pre> 
-+ Syntax of English, Linguistics 204 
-    + <pre>Winter 2019</pre> 
-+ Child Language Acquisition, Linguistics 319 
-    + <pre>Fall 2017; Spring 2019; Fall 2019</pre>
+    + <pre>Winter, 2020</pre>
++ Syntax of English, Linguistics 204
+    + <pre>Winter, 2019</pre>
++ Child Language Acquisition, Linguistics 319
+    + <pre>Fall, 2017; Spring, 2019; Fall, 2019</pre>
 
 <h2>Adult ESL Instruction</h2>
 
@@ -52,22 +56,18 @@ weight = 40
 + EJ Canada College - ESL Instructor to university-aged adults
     + <pre>2001 - 2003 (Vancouver, Canada)</pre>
 
-+ David's English Center - EFL Instructor to working adults 
++ David's English Center - EFL Instructor to working adults
     + <pre>1999 - 2001 (Taipei, Taiwan)</pre>
 
 <h2>English Immersion Instruction</h2>
 
 + Beth's Academy - Teacher for early elementary grades
     + <pre>2003 - 2014 (Taipei, Taiwan)</pre>
-    
+
 <h2>Workshop Instruction</h2>
 
 + Data/Software Carpentry Workshops for Git and `R` software - Assistant Instructor
-    + <pre>July, 2017 & Nov, 2017 (Edmonton, Canada)</pre> 
+    + <pre>July, 2017 & Nov, 2017 (Edmonton, Canada)</pre>
 
 + EPL Open Data Day Hackathon Introduction to `R` statistical software - Workshop Leader
     + <pre>March, 2017 (Edmonton, Canada)</pre>
-
-
-
-

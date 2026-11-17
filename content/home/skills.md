@@ -16,35 +16,24 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 
+- description: "Reading and visual-world experiments with SR Research EyeLink; exploring webcam eye-tracking with WebGazer"
+  icon: eye
+  icon_pack: fas
+  name: Eye-tracking
+- description: "E-Prime and OpenSesame for lab experiments; OSWeb for online, large-scale data collection"
+  icon: laptop-code
+  icon_pack: fas
+  name: Experiment programming
+- description: "Linear mixed-effects models, generalized additive mixed models (GAMMs) and data visualization in R"
   icon: r-project
   icon_pack: fab
-  name: R
-- description: 
-  icon: chart-line
+  name: Statistical modeling
+- description: "Dynamic, reproducible documents and analyses with R Markdown; Git version control"
+  icon: code-branch
   icon_pack: fas
-  name: Statistics
-- description: 
+  name: Reproducible research
+- description: "Working knowledge"
   icon: python
   icon_pack: fab
   name: Python
-# - description:
-#   icon: "中"
-#   icon_pack: "emoji"
-#   name: Mandarin
-
-# ㊥🈭 https://graphemica.com/%E4%B8%AD#code
-# Uncomment to use emoji icons.
-#- icon = ":smile:"
-#  icon_pack = "emoji"
-#  name = "Emojiness"
-#  description = "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon = "your-custom-icon-name"
-#  icon_pack = "custom"
-#  name = "Surfing"
-#  description = "90%"
 ---

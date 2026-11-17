@@ -1,0 +1,537 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: About
+    url: '#about'
+    weight: 10
+  - name: Publications
+    url: '#publications'
+    weight: 20
+  - name: Presentations
+    url: '#presentations'
+    weight: 30
+  - name: Teaching
+    url: '#teaching'
+    weight: 40
+  - name: Contact
+    url: '#contact'
+    weight: 50
+=== content/home/about.md ===
+---
+# An instance of the About widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: about
+
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 10
+
+title: Biography
+
+# Choose the user profile to display
+# This should be the username (folder name) of a profile in your `content/authors/` folder.
+# See https://wowchemy.com/docs/get-started/#introduce-yourself
+author: admin
+---
+=== content/home/accomplishments.md ===
+---
+# An instance of the Accomplishments widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: accomplishments
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 50
+
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+title: 'Certificates'
+subtitle:
+
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+item:
+- certificate_url: https://coursera.org/share/0019b47bb1e4b7223e03fba7a831912f
+  date_end: ""
+  date_start: "2020-02-25"
+  description: "University teaching course offered by the University of Hong Kong on Coursera."
+  organization: Coursera
+  organization_url: https://www.coursera.org
+  title: University Teaching
+  url: "https://www.coursera.org/learn/university-teaching"
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/c91877ce11ea0083199ed725c8450db00cefdea9
+  date_end: ""
+  date_start: "2018-04-26"
+  description: 
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: R Programmer Track
+  url: https://learn.datacamp.com/career-tracks/r-programmer?version=1
+- certificate_url: https://www.datacamp.com/statement-of-accomplishment/track/aa7d234bd6f11574a3bbb1f6c81ff1dc63ef3e8b
+  date_end: ""
+  date_start: "2017-06-08"
+  description: 
+  organization: DataCamp
+  organization_url: https://www.datacamp.com
+  title: Python Programmer Track
+  url: https://learn.datacamp.com/career-tracks/python-programmer?version=1
+
+design:
+  columns: '2' 
+---
+=== content/home/experience.md ===
+---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: experience
+active: false
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 60
+
+title: Experience
+subtitle:
+
+# Date format for experience
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
+
+# Experiences.
+#   Add/remove as many `experience` items below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+experience:
+  - title: CEO
+    company: GenCoin
+    company_url: ''
+    company_logo: org-gc
+    location: California
+    date_start: '2021-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
+        
+  - title: Professor of Semiconductor Physics
+    company: University X
+    company_url: ''
+    company_logo: org-x
+    location: California
+    date_start: '2016-01-01'
+    date_end: '2020-12-31'
+    description: Taught electronic engineering and researched semiconductor physics.
+
+design:
+  columns: '2'
+---
+=== content/home/skills.md ===
+---
+# An instance of the Featurette widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: featurette
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 40
+
+title: Skills
+subtitle:
+
+# Showcase personal skills or business features.
+# - Add/remove as many `feature` blocks below as you like.
+# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+feature:
+- description: 
+  icon: r-project
+  icon_pack: fab
+  name: R
+- description: 
+  icon: chart-line
+  icon_pack: fas
+  name: Statistics
+- description: 
+  icon: python
+  icon_pack: fab
+  name: Python
+# - description:
+#   icon: "中"
+#   icon_pack: "emoji"
+#   name: Mandarin
+
+# ㊥🈭 https://graphemica.com/%E4%B8%AD#code
+# Uncomment to use emoji icons.
+#- icon = ":smile:"
+#  icon_pack = "emoji"
+#  name = "Emojiness"
+#  description = "100%"  
+
+# Uncomment to use custom SVG icons.
+# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
+# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
+#- icon = "your-custom-icon-name"
+#  icon_pack = "custom"
+#  name = "Surfing"
+#  description = "90%"
+---
+=== content/home/teaching.md ===
++++
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
+active = true
+date = "2016-04-20T00:00:00"
+
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "Teaching"
+subtitle = ""
+
+
+# Order that this section will appear in.
+weight = 40
+
+# One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
+
++++
+<h2>Academic Courses at the University of Macau</h2>
+
++ Language and Linguistics, Education 7705
+    + <pre>Winter, 2025; Fall, 2025</pre>
++ Language Learning Theories and ELT, Education 1006
+    + <pre>Fall, 2023; Fall, 2024; Fall, 2025</pre>
++ Introduction to English Language Teaching, Education 1024
+    + <pre>Winter, 2024</pre>
++ Teaching Reading & Writing, Education 2022 
+    + <pre>Fall, 2023</pre>
+    
+<h2>Academic Courses at the University of Alberta</h2>
+
++ Psychology of Bilingualism, Psychology 405 X01
+    + <pre>Winter, 2022; Fall, 2020</pre> 
++ Development of Bilingualism, Psychology 423
+    + <pre>Fall, 2021</pre> 
++ Introduction to Linguistics, Linguistics 101
+    + <pre>Winter, 2020</pre> 
++ Syntax of English, Linguistics 204 
+    + <pre>Winter 2019</pre> 
++ Child Language Acquisition, Linguistics 319 
+    + <pre>Fall 2017; Spring 2019; Fall 2019</pre>
+
+<h2>Adult ESL Instruction</h2>
+
++ Stanley English - IELTS Instructor
+    + <pre>June 2022 - Present (Taichung, Taiwan)</pre>
+
++ Da-Yeh University - English Dept. Lecturer
+    + <pre>August 2021 - July 2022 (Changhua County, Taiwan)</pre>
+
++ EJ Canada College - ESL Instructor to university-aged adults
+    + <pre>2001 - 2003 (Vancouver, Canada)</pre>
+
++ David's English Center - EFL Instructor to working adults 
+    + <pre>1999 - 2001 (Taipei, Taiwan)</pre>
+
+<h2>English Immersion Instruction</h2>
+
++ Beth's Academy - Teacher for early elementary grades
+    + <pre>2003 - 2014 (Taipei, Taiwan)</pre>
+    
+<h2>Workshop Instruction</h2>
+
++ Data/Software Carpentry Workshops for Git and `R` software - Assistant Instructor
+    + <pre>July, 2017 & Nov, 2017 (Edmonton, Canada)</pre> 
+
++ EPL Open Data Day Hackathon Introduction to `R` statistical software - Workshop Leader
+    + <pre>March, 2017 (Edmonton, Canada)</pre>
+
+
+
+
+=== content/home/publications.md ===
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 20
+
+title: Publications
+subtitle: ''
+
+content:
+  # Page type to display. E.g. post, talk, publication...
+  page_type: publication
+  # Choose how much pages you would like to display (0 = all pages)
+  count: 5
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+  # Filter on criteria
+  filters:
+    tag: ''
+    category: ''
+    publication_type: '2'
+    author: ''
+    exclude_featured: true
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 4
+  
+# {{% callout note %}}
+# Quickly discover relevant content by [filtering publications](./publication/).
+# {{% /callout %}} # Uncomment and place below if wanted.
+---
+
+
+=== content/home/presentations.md ===
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
+active: true
+
+# This file represents a page section.
+headless: false
+
+# Order that this section appears on the page.
+weight: 30
+
+title: Presentations
+subtitle: ''
+
+content:
+  # Page type to display. E.g. post, event, publication...
+  page_type: event
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Filter on criteria
+  filters:
+    author: ""
+    category: ""
+    tag: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ""
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
+---
+=== content/home/talks.md ===
+---
+# An instance of the Pages widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
+widget: pages
+active: false
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 31
+
+title: 'Presalt'
+subtitle: ''
+
+content:
+  # Page type to display. E.g. post, event, publication...
+  page_type: event
+  # Choose how many pages you would like to display (0 = all pages)
+  count: 0
+  # Filter on criteria
+  filters:
+    author: ""
+    category: ""
+    tag: ""
+    exclude_featured: false
+    exclude_future: false
+    exclude_past: false
+    publication_type: ""
+  # Choose how many pages you would like to offset by
+  offset: 0
+  # Page order: descending (desc) or ascending (asc) date.
+  order: desc
+
+design:
+  # Choose a view for the listings:
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view: 2
+---
+=== content/home/contact.md ===
+---
+# An instance of the Contact widget.
+# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+widget: contact
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 70
+
+title: Contact
+subtitle:
+
+content:
+  # Automatically link email and phone or display as text?
+  autolink: true
+  
+  # Email form provider
+  form:
+    provider: none
+  
+design:
+  columns: '2'
+---
+=== journal ===
++++
+title = "Second language acquisition of syntax"
+date = "2025-01-01"
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Brian V. Rusk"]
+
+# Publication type.
+# Legend:
+# 0 = Uncategorized
+# 1 = Conference proceedings
+# 2 = Journal
+# 3 = Work in progress
+# 4 = Technical report
+# 5 = Book
+# 6 = Book chapter
+publication_types = ["6"]
+
+# Publication name and optional abbreviated version.
+publication = "In *Elsevier's encyclopedia of literature and linguistics*"
+# publication_short = ""
+
+# Abstract and optional shortened version.
+abstract = ""
+abstract_short = ""
+
+# Featured image thumbnail (optional)
+image_preview = ""
+
+# Is this a selected publication? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+# projects = [""]
+
+# Links (optional).
+url_pdf = ""
+url_preprint = ""
+url_code = ""
+url_dataset = ""
+url_project = ""
+url_slides = ""
+url_video = ""
+url_poster = ""
+url_source = "https://doi.org/10.1016/B978-0-323-95504-1.01207-2"
+
+# Does the content use math formatting?
+math = false
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
+
+# More detail can easily be written below the final +++ using *Markdown* and $\rm \LaTeX$ math code.
++++=== conference ===
++++
+# Schedule page publish date.
+date = 2025-07-01T09:00:00
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = ["Barry Lee Reynolds", "Brian V. Rusk"]
+title = "Incidental L2 word learning from reading repeated or diverse contexts: Eye-tracking shows processing and familiarization"
+time_start = 2025-07-01T09:00:00
+time_end = 2025-07-01T10:00:00
+abstract = ""
+abstract_short = ""
+event = "Vocab@Maryland"
+event_url = ""
+location = "University of Maryland, College Park, MD"
+publication_types = ["1"]
+
+# Is this a selected talk? (true/false)
+selected = false
+
+# Projects (optional).
+#   Associate this talk with one or more of your projects.
+#   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
+# projects = ["deep-learning"]
+
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Does the content use math formatting?
+math = false
+
+# Does the content use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+# caption = "My caption :smile:"
++++
