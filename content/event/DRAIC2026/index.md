@@ -13,6 +13,6 @@ tags: []
 title: "Beyond reading speed: What can eye movements tell us about L2 readers' morphosyntactic proficiency?"
 url_code: ""
 url_pdf: ""
-url_slides = "/uploads/Rusk_DRAIC_Beyond_Reading_Speed.pdf"
+url_slides: "/uploads/Rusk_DRAIC_Beyond_Reading_Speed.pdf"
 url_video: ""
 ---

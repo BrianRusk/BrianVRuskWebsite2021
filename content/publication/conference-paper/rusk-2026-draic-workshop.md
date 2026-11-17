@@ -19,7 +19,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "/uploads/Rusk_DRAIC_Beyond_Reading_Speed.pdf"
 url_video = ""
 url_code = ""
 
